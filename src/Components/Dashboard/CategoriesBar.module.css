@@ -1,0 +1,33 @@
+.categoriesBar {
+    background-color: white;
+    margin: 2%;
+    padding: 1.5%;
+}
+
+.chooseSport {
+    padding-right: 2%;
+    font-weight: 900;
+}
+
+.button {
+    padding-right: 1%;
+    border: none;
+    outline: none;
+}
+
+.mainButton {
+    padding-right: 1%;
+    border: none;
+    outline: none;
+    color: #6652e4;
+}
+
+.selectCity {
+    width: 135;
+    color: #6652e4;
+}
+
+.selectCategory {
+    width: 135;
+    color: #6652e4;
+}

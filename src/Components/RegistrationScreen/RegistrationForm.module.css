@@ -1,0 +1,11 @@
+.registrationForm {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/src/img/pjeski.jpg');
+}
+
+.antForm {
+    background: white;
+    padding: 25px;
+}

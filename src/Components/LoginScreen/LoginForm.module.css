@@ -1,0 +1,19 @@
+.loginForm {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/src/img/pjeski.jpg');
+}
+
+.antForm {
+    background: white;
+    padding: 25px;
+    max-width: 300px;
+}
+
+.loginFormForgot {
+    float: right;
+}
+.loginFormButton {
+    width: 100%;
+}
